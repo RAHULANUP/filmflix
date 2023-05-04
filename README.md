@@ -4,7 +4,7 @@ A movie/webseries streaming webapp
 
 ## Hosting URL
 
-Hosting URL:[film-flixx.netlify.app](film-flixx.netlify.app)
+Hosting URL:[https://film-flixx.netlify.app](https://film-flixx.netlify.app)
 
 ### `npm start`
 
