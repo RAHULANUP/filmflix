@@ -4,7 +4,7 @@ A movie/webseries streaming webapp
 
 ## Credits 
 
-Clever Programmer
+Clever Programmer \
 Link to the Youtube Video : [https://www.youtube.com/live/XtMThy8QKqU?feature=share](https://www.youtube.com/live/XtMThy8QKqU?feature=share)
 
 ## Hosting URL
